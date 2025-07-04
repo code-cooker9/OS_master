@@ -1,0 +1,34 @@
+Operating System acts as an interface between user and the hardware.
+
+Resource manager:perform allocation and deallocation of resources
+  They are divided into hardware and software
+  Hardware:CPU, monitors, I/O devices.
+  Software:files, semaphores , monitors.
+Control programs:control all the operations of the programs
+
+Goals:Convinience- primary goal
+      Efficiency
+      Relaible- purpose acheived
+      scalable
+      Robust
+      Portable
+Functions: Processer management
+           Memory management
+           Error detection
+           Security
+           File management
+Components of hardware: Input
+                        ouptut
+                        CPU : memory unit: primary(main) -volatile ,secondary(auxilary) - non-valatile
+                              control unit
+                              arithmetic logic unit
+Test.c -> compiler -> instructions -> load exe file from hard disk to main memory 
+Types of Operating System: Batch Operating System
+                           Distributed Operating System
+                           Network Operating System
+                           Real-time Operating System
+                           Time Sharing Operating System
+                           Multi- programming Operating System
+Uni-programming : hold single program in memory
+    drawback:less effciency
+  
